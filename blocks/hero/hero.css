@@ -34,6 +34,6 @@ main .hero picture {
 
 main .hero img {
   object-fit: cover;
-  width: 100%;
+  width: 50%;
   height: 100%;
 }
