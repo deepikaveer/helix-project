@@ -1,0 +1,12 @@
+.franklin-banner.blue-banner {
+    background-color: lightskyblue;
+}
+.franklin-banner p {
+    position: absolute;
+    display: block;
+    top: 0;
+    color: red;
+    /* margin: 0 auto 100%; */
+    /* width: 100%; */
+    font-size: 90px;
+}
